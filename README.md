@@ -4,7 +4,7 @@ I’m a **Data Analyst** driven by curiosity to uncover the meaning behind data 
 
 I’ve focused on developing my skills in data visualization, data modeling, and analytical problem-solving. I enjoy learning through hands-on work, experimentation, and sharing what I discover — which is why I created this space to document and exchange ideas.
 
-Visit [my blog](tnhungct.github.io) if you want to discover more about me.
+Visit [my blog](https://tnhungct.github.io) if you want to discover more about me.
 
 <!--
 **tnhungct/tnhungct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
